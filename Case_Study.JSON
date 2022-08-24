@@ -1,0 +1,1832 @@
+{
+                "view": "Catalog",
+                "activeLanguage": "fr",
+                "countryCode": "MA",
+                "languages": {
+                    "fr": {
+                        "text": "Français",
+                        "default": true
+                    },
+                    "ar": {
+                        "text": "العربية",
+                        "isRTL": true
+                    }
+                },
+                "svgFallback": false,
+                "tracking": {
+                    "gtm": {
+                        "key": "GTM-KS6DC65",
+                        "url": "/electronique/?page=3",
+                        "pageType": "catalog",
+                        "pageSubtype": "category",
+                        "pageKey": "catalog_category",
+                        "catFilterIds": "1492",
+                        "catFilterNames": ["TV & Hi Tech"],
+                        "sponsored": {
+                            "apiKey": "fad2c907bf5f754443e92ca4347f2aaaf9abb8af0972d67af02abcd6b8e02cb5CPM",
+                            "userId": "298607032815688377862765c3059d1a",
+                            "pageId": "TV & Hi Tech",
+                            "pageType": "category"
+                        }
+                    }
+                },
+                "csrfToken": "de44d58a4835a4e70816a0ad8f11006a",
+                "user": {
+                    "id": ""
+                },
+                "sprites": {
+                    "icons": "https://www.jumia.ma/assets_he/images/i-icons.01347306.svg",
+                    "global": "https://www.jumia.ma/assets_he/images/i-global.cd8c5f0c.svg",
+                    "shop": "https://www.jumia.ma/assets_he/images/i-jumia.svg"
+                },
+                "liveChat": {
+                    "loadingText": "Démarrage du chat...",
+                    "botImg": "https://www.jumia.ma/assets_he/images/bot.5beef7d8.svg"
+                },
+                "htmlErrors": {
+                    "valueMissing": "Champ requis",
+                    "typeMismatch": "Information invalide",
+                    "patternMismatch": "Information non valide"
+                },
+                "addToCart": {
+                    "common": {
+                        "buyNowQtySelection": {
+                            "showQtySelector": true,
+                            "cartQtyIncreaseCTA": "augmenter la quantité panier",
+                            "cartQtyDecreaseCTA": "diminuer la quantité panier"
+                        }
+                    },
+                    "default": {
+                        "buyNowCTA": "Ajouter au panier",
+                        "buyNowQtySelection": {
+                            "showQtySelector": true,
+                            "cartQtyIncreaseCTA": "augmenter la quantité panier",
+                            "cartQtyDecreaseCTA": "diminuer la quantité panier"
+                        },
+                        "isXhr": true
+                    }
+                },
+                "popups": {
+                    "addToCart": {
+                        "data": {
+                            "buyNowCTA": "Ajouter au panier",
+                            "buyNowQtySelection": {
+                                "showQtySelector": true,
+                                "cartQtyIncreaseCTA": "augmenter la quantité panier",
+                                "cartQtyDecreaseCTA": "diminuer la quantité panier"
+                            },
+                            "unavailableText": "Actuellement indisponible",
+                            "viewUrl": "/cart/",
+                            "continueCTA": "Poursuivre vos achats",
+                            "viewCTA": "Finaliser la commande",
+                            "popupTitle": "Veuillez sélectionner une option",
+                            "closeCTA": "fermer le popup"
+                        },
+                        "template": "AddToCart"
+                    }
+                },
+                "products": [{
+                    "sku": "XI737EL0ENHVONAFAMZ",
+                    "name": "Mi Selfie Stick Tripod (Black) - 1 an de garantie",
+                    "displayName": "XIAOMI Mi Selfie Stick Tripod (Black) - 1 an de garantie",
+                    "brand": "XIAOMI",
+                    "isShopExpress": true,
+                    "categories": "Electronics/Accessories & Supplies/Camera & Photo Accessories/Professional Video Accessories",
+                    "prices": {
+                        "rawPrice": "184.00",
+                        "price": "184.00 Dhs",
+                        "priceEuro": "17.63",
+                        "taxEuro": "2.94",
+                        "oldPrice": "219.00 Dhs",
+                        "oldPriceEuro": "20.98",
+                        "discount": "16%"
+                    },
+                    "tags": "FDYJE|JA22_2|JA22_23|JMALL|UNDB_1|UNDB_12",
+                    "rating": {
+                        "average": 0,
+                        "totalRatings": 0
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/24/610884/1.jpg?0674",
+                    "url": "/xiaomi-mi-selfie-stick-tripod-black-1-an-de-garantie-48801642.html",
+                    "badges": {
+                        "main": {
+                            "name": "Boutique Officielle",
+                            "identifier": "JMALL",
+                            "url": "/all-products/?tag=JMALL"
+                        },
+                        "campaign": {
+                            "name": "FDYJE",
+                            "identifier": "FDYJE",
+                            "image": "https://ma.jumia.is/badges/fdyje/7/138x18.png?8712",
+                            "url": "/all-products/?tag=FDYJE"
+                        }
+                    },
+                    "isBuyable": true,
+                    "shopExpress": {
+                        "title": "Livraison rapide",
+                        "text": "Éligible à la livraison gratuite"
+                    },
+                    "simples": [{
+                        "sku": "XI737EL0ENHVONAFAMZ-47482645",
+                        "loginUrl": "/customer/account/login/?tkWl=XI737EL0ENHVONAFAMZ-47482645&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "184.00",
+                            "price": "184.00 Dhs",
+                            "priceEuro": "17.63",
+                            "taxEuro": "2.94",
+                            "oldPrice": "219.00 Dhs",
+                            "oldPriceEuro": "20.98",
+                            "discount": "16%"
+                        }
+                    }],
+                    "selectedVariation": "XI737EL0ENHVONAFAMZ-47482645"
+                }, {
+                    "sku": "GE232EA0AU27UNAFAMZ",
+                    "name": "Microphone karaoké Bluetooth 2 en 1 haut - parleur avec chargeur  ( rose )",
+                    "displayName": "Microphone karaoké Bluetooth 2 en 1 haut - parleur avec chargeur  ( rose )",
+                    "brand": "Generic",
+                    "sellerId": 50101,
+                    "categories": "Electronics/Accessories & Supplies/Microphones/Microphones",
+                    "prices": {
+                        "rawPrice": "122.55",
+                        "price": "122.55 Dhs",
+                        "priceEuro": "11.74",
+                        "taxEuro": "0.00",
+                        "oldPrice": "398.00 Dhs",
+                        "oldPriceEuro": "38.13",
+                        "discount": "69%"
+                    },
+                    "rating": {
+                        "average": 5,
+                        "totalRatings": 2
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/18/198714/1.jpg?3520",
+                    "url": "/generic-microphone-karaoke-bluetooth-2-en-1-haut-parleur-avec-chargeur-rose-41789181.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "GE232EA0AU27UNAFAMZ-38705511",
+                        "loginUrl": "/customer/account/login/?tkWl=GE232EA0AU27UNAFAMZ-38705511&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "122.55",
+                            "price": "122.55 Dhs",
+                            "priceEuro": "11.74",
+                            "taxEuro": "0.00",
+                            "oldPrice": "398.00 Dhs",
+                            "oldPriceEuro": "38.13",
+                            "discount": "69%"
+                        }
+                    }],
+                    "selectedVariation": "GE232EA0AU27UNAFAMZ-38705511"
+                }, {
+                    "sku": "VE165HA0ZO4ENNAFAMZ",
+                    "name": "Aspirateur 3 en 1 à main 600W //à fil, technologie sans sac cyclonique",
+                    "displayName": "Venizea Aspirateur 3 en 1 à main 600W //à fil, technologie sans sac cyclonique",
+                    "brand": "Venizea",
+                    "sellerId": 109265,
+                    "categories": "Electronics/Home Appliances/Household Appliances/Vacuums & Cleaners",
+                    "prices": {
+                        "rawPrice": "549.00",
+                        "price": "549.00 Dhs",
+                        "priceEuro": "52.59",
+                        "taxEuro": "8.77",
+                        "oldPrice": "750.00 Dhs",
+                        "oldPriceEuro": "71.85",
+                        "discount": "27%"
+                    },
+                    "rating": {
+                        "average": 5,
+                        "totalRatings": 1
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/59/912015/1.jpg?0006",
+                    "url": "/venizea-aspirateur-3-en-1-a-main-600w-a-fil-technologie-sans-sac-cyclonique-51021995.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "VE165HA0ZO4ENNAFAMZ-50248974",
+                        "loginUrl": "/customer/account/login/?tkWl=VE165HA0ZO4ENNAFAMZ-50248974&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "promo",
+                        "prices": {
+                            "rawPrice": "549.00",
+                            "price": "549.00 Dhs",
+                            "priceEuro": "52.59",
+                            "taxEuro": "8.77",
+                            "oldPrice": "750.00 Dhs",
+                            "oldPriceEuro": "71.85",
+                            "discount": "27%"
+                        }
+                    }],
+                    "selectedVariation": "VE165HA0ZO4ENNAFAMZ-50248974",
+                    "variationSelection": true
+                }, {
+                    "sku": "GE232EA15G1MONAFAMZ",
+                    "name": "Télécommande Universelle Pour Climatiseur K-1028E Pour Plus De 1000 Marques",
+                    "displayName": "Télécommande Universelle Pour Climatiseur K-1028E Pour Plus De 1000 Marques",
+                    "brand": "Generic",
+                    "sellerId": 79574,
+                    "categories": "Electronics/Accessories & Supplies/Audio & Video Accessories/Remote Controls",
+                    "prices": {
+                        "rawPrice": "79.00",
+                        "price": "79.00 Dhs",
+                        "priceEuro": "7.57",
+                        "taxEuro": "0.00",
+                        "oldPrice": "150.00 Dhs",
+                        "oldPriceEuro": "14.37",
+                        "discount": "47%"
+                    },
+                    "rating": {
+                        "average": 5,
+                        "totalRatings": 1
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/69/612864/1.jpg?1169",
+                    "url": "/generic-telecommande-universelle-pour-climatiseur-k-1028e-pour-plus-de-1000-marques-46821696.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "GE232EA15G1MONAFAMZ-45035669",
+                        "loginUrl": "/customer/account/login/?tkWl=GE232EA15G1MONAFAMZ-45035669&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "Promo",
+                        "prices": {
+                            "rawPrice": "79.00",
+                            "price": "79.00 Dhs",
+                            "priceEuro": "7.57",
+                            "taxEuro": "0.00",
+                            "oldPrice": "150.00 Dhs",
+                            "oldPriceEuro": "14.37",
+                            "discount": "47%"
+                        }
+                    }],
+                    "selectedVariation": "GE232EA15G1MONAFAMZ-45035669",
+                    "variationSelection": true
+                }, {
+                    "sku": "VE658HA1NGSYCNAFAMZ",
+                    "name": "Aspirateur cyclonique 3 en1 portatif à main de 600 w avec câble électrique.",
+                    "displayName": "Venezia Aspirateur cyclonique 3 en1 portatif à main de 600 w avec câble électrique.",
+                    "brand": "Venezia",
+                    "sellerId": 101343,
+                    "categories": "Electronics/Home Appliances/Household Appliances/Vacuums & Cleaners",
+                    "prices": {
+                        "rawPrice": "549.00",
+                        "price": "549.00 Dhs",
+                        "priceEuro": "52.59",
+                        "taxEuro": "8.77",
+                        "oldPrice": "699.00 Dhs",
+                        "oldPriceEuro": "66.96",
+                        "discount": "21%"
+                    },
+                    "rating": {
+                        "average": 4.3,
+                        "totalRatings": 4
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/881364/1.jpg?5467",
+                    "url": "/venezia-aspirateur-cyclonique-3-en1-portatif-a-main-de-600-w-avec-cable-electrique.-46318899.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "VE658HA1NGSYCNAFAMZ-44356579",
+                        "loginUrl": "/customer/account/login/?tkWl=VE658HA1NGSYCNAFAMZ-44356579&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "549.00",
+                            "price": "549.00 Dhs",
+                            "priceEuro": "52.59",
+                            "taxEuro": "8.77",
+                            "oldPrice": "699.00 Dhs",
+                            "oldPriceEuro": "66.96",
+                            "discount": "21%"
+                        }
+                    }],
+                    "selectedVariation": "VE658HA1NGSYCNAFAMZ-44356579"
+                }, {
+                    "sku": "XI737EA0IKILMNAFAMZ",
+                    "name": "Redmi pro Ecouteur Sans Fil Bluetooth 5.0 pro Global Version",
+                    "displayName": "XIAOMI Redmi pro Ecouteur Sans Fil Bluetooth 5.0 pro Global Version",
+                    "brand": "XIAOMI",
+                    "sellerId": 80752,
+                    "categories": "Electronics/Accessories & Supplies/Audio & Video Accessories/Earphone & Headphone Accessories",
+                    "prices": {
+                        "rawPrice": "236.55",
+                        "price": "236.55 Dhs",
+                        "priceEuro": "22.66",
+                        "taxEuro": "3.78",
+                        "oldPrice": "399.00 Dhs",
+                        "oldPriceEuro": "38.22",
+                        "discount": "41%"
+                    },
+                    "rating": {
+                        "average": 3.5,
+                        "totalRatings": 31
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/31/190314/1.jpg?4103",
+                    "url": "/redmi-pro-ecouteur-sans-fil-bluetooth-5.0-pro-global-version-xiaomi-mpg931426.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "XI737EA0IKILMNAFAMZ-38103117",
+                        "loginUrl": "/customer/account/login/?tkWl=XI737EA0IKILMNAFAMZ-38103117&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "noir",
+                        "prices": {
+                            "rawPrice": "236.55",
+                            "price": "236.55 Dhs",
+                            "priceEuro": "22.66",
+                            "taxEuro": "3.78",
+                            "oldPrice": "399.00 Dhs",
+                            "oldPriceEuro": "38.22",
+                            "discount": "41%"
+                        }
+                    }],
+                    "selectedVariation": "XI737EA0IKILMNAFAMZ-38103117",
+                    "variationSelection": true
+                }, {
+                    "sku": "TA867HA0910CVNAFAMZ",
+                    "name": "Rechaud électrique  plaques  VOLCANO UNO haut gamme -2ans de garantie",
+                    "displayName": "Taurus Rechaud électrique  plaques  VOLCANO UNO haut gamme -2ans de garantie",
+                    "brand": "Taurus",
+                    "sellerId": 715,
+                    "isShopExpress": true,
+                    "categories": "Electronics/Home Appliances/Kitchen Appliances/Electric Griddles/Electric Tabletop Burmers",
+                    "prices": {
+                        "rawPrice": "259.00",
+                        "price": "259.00 Dhs",
+                        "priceEuro": "24.81",
+                        "taxEuro": "4.14",
+                        "oldPrice": "399.00 Dhs",
+                        "oldPriceEuro": "38.22",
+                        "discount": "35%"
+                    },
+                    "tags": "1212|BF|CP_MT128|CP_MT52|CP_MT9|CP_MT99|CP_UN75|Camp_16|Camp_93|JA22_3|JA22_33|JMALL|Merch_47|Merch_50|Merch_51|Merch_83",
+                    "rating": {
+                        "average": 4.3,
+                        "totalRatings": 34
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/15/163663/1.jpg?0074",
+                    "url": "/taurus-rechaud-electrique-plaques-volcano-uno-haut-gamme-2ans-de-garantie-36636151.html",
+                    "badges": {
+                        "main": {
+                            "name": "Boutique Officielle",
+                            "identifier": "JMALL",
+                            "url": "/all-products/?tag=JMALL"
+                        }
+                    },
+                    "isBuyable": true,
+                    "shopExpress": {
+                        "title": "Livraison rapide",
+                        "text": "Éligible à la livraison gratuite"
+                    },
+                    "simples": [{
+                        "sku": "TA867HA0910CVNAFAMZ-31980845",
+                        "loginUrl": "/customer/account/login/?tkWl=TA867HA0910CVNAFAMZ-31980845&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "259.00",
+                            "price": "259.00 Dhs",
+                            "priceEuro": "24.81",
+                            "taxEuro": "4.14",
+                            "oldPrice": "399.00 Dhs",
+                            "oldPriceEuro": "38.22",
+                            "discount": "35%"
+                        }
+                    }],
+                    "selectedVariation": "TA867HA0910CVNAFAMZ-31980845"
+                }, {
+                    "sku": "IT879EA1KAMTNNAFAMZ",
+                    "name": "Smart TV 43\" Android™ 11 Pie, FHD - Bluetooth - TNT Voice Remote Control",
+                    "displayName": "Itel Smart TV 43\" Android™ 11 Pie, FHD - Bluetooth - TNT Voice Remote Control",
+                    "brand": "Itel",
+                    "sellerId": 36242,
+                    "isShopExpress": true,
+                    "categories": "Electronics/Television & Video/Televisions/Smart TVs",
+                    "prices": {
+                        "rawPrice": "2774.00",
+                        "price": "2,774.00 Dhs",
+                        "priceEuro": "265.74",
+                        "taxEuro": "44.29",
+                        "oldPrice": "4,200.00 Dhs",
+                        "oldPriceEuro": "402.34",
+                        "discount": "34%"
+                    },
+                    "tags": "JA22_10|JA22_101|JMALL|UNDA_4|UNDA_42|UNDB_1|UNDB_13",
+                    "rating": {
+                        "average": 4.3,
+                        "totalRatings": 3
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/94/554635/1.jpg?0600",
+                    "url": "/itel-smart-tv-43-androidtm-11-pie-fhd-bluetooth-tnt-voice-remote-control-53645549.html",
+                    "badges": {
+                        "main": {
+                            "name": "Boutique Officielle",
+                            "identifier": "JMALL",
+                            "url": "/all-products/?tag=JMALL"
+                        }
+                    },
+                    "isBuyable": true,
+                    "shopExpress": {
+                        "title": "Livraison rapide",
+                        "text": "Éligible à la livraison gratuite"
+                    },
+                    "simples": [{
+                        "sku": "IT879EA1KAMTNNAFAMZ-53588031",
+                        "loginUrl": "/customer/account/login/?tkWl=IT879EA1KAMTNNAFAMZ-53588031&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "2774.00",
+                            "price": "2,774.00 Dhs",
+                            "priceEuro": "265.74",
+                            "taxEuro": "44.29",
+                            "oldPrice": "4,200.00 Dhs",
+                            "oldPriceEuro": "402.34",
+                            "discount": "34%"
+                        }
+                    }],
+                    "selectedVariation": "IT879EA1KAMTNNAFAMZ-53588031"
+                }, {
+                    "sku": "TE984HA0UNZMXNAFAMZ",
+                    "name": "Aspirateur Balai 2 en 1",
+                    "displayName": "Techwood Aspirateur Balai 2 en 1",
+                    "brand": "Techwood",
+                    "sellerId": 1228,
+                    "isShopExpress": true,
+                    "categories": "Electronics/Home Appliances/Household Appliances/Vacuums & Cleaners",
+                    "prices": {
+                        "rawPrice": "690.00",
+                        "price": "690.00 Dhs",
+                        "priceEuro": "66.10",
+                        "taxEuro": "11.02",
+                        "oldPrice": "799.00 Dhs",
+                        "oldPriceEuro": "76.54",
+                        "discount": "14%"
+                    },
+                    "tags": "INV_CLEAR|JMALL|MLP46|RKTAP",
+                    "rating": {
+                        "average": 4.4,
+                        "totalRatings": 22
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/507753/1.jpg?4896",
+                    "url": "/techwood-aspirateur-balai-2-en-1-35770515.html",
+                    "badges": {
+                        "main": {
+                            "name": "Boutique Officielle",
+                            "identifier": "JMALL",
+                            "url": "/all-products/?tag=JMALL"
+                        }
+                    },
+                    "isBuyable": true,
+                    "shopExpress": {
+                        "title": "Livraison rapide",
+                        "text": "Éligible à la livraison gratuite"
+                    },
+                    "simples": [{
+                        "sku": "TE984HA0UNZMXNAFAMZ-30335689",
+                        "loginUrl": "/customer/account/login/?tkWl=TE984HA0UNZMXNAFAMZ-30335689&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "690.00",
+                            "price": "690.00 Dhs",
+                            "priceEuro": "66.10",
+                            "taxEuro": "11.02",
+                            "oldPrice": "799.00 Dhs",
+                            "oldPriceEuro": "76.54",
+                            "discount": "14%"
+                        }
+                    }],
+                    "selectedVariation": "TE984HA0UNZMXNAFAMZ-30335689"
+                }, {
+                    "sku": "GE232EA18T30JNAFAMZ",
+                    "name": "Portable 3D subwoofer stéréo maison karaoké bluetooth haut-parleur coloré LUMIÈRE LED microphone FIL radio FM TF CARTE USB",
+                    "displayName": "Portable 3D subwoofer stéréo maison karaoké bluetooth haut-parleur coloré LUMIÈRE LED microphone FIL radio FM TF CARTE USB",
+                    "brand": "Generic",
+                    "sellerId": 75464,
+                    "categories": "Electronics/Home Audio/Speakers/Bluetooth Speakers",
+                    "prices": {
+                        "rawPrice": "355.00",
+                        "price": "355.00 Dhs",
+                        "priceEuro": "34.01",
+                        "taxEuro": "5.67",
+                        "oldPrice": "999.00 Dhs",
+                        "oldPriceEuro": "95.70",
+                        "discount": "64%"
+                    },
+                    "rating": {
+                        "average": 5,
+                        "totalRatings": 1
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/260035/1.jpg?9404",
+                    "url": "/portable-3d-subwoofer-stereo-maison-karaoke-bluetooth-haut-parleur-colore-lumiere-led-microphone-fil-radio-fm-tf-carte-usb-generic-mpg1140204.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "GE232EA18T30JNAFAMZ-52799260",
+                        "loginUrl": "/customer/account/login/?tkWl=GE232EA18T30JNAFAMZ-52799260&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "355.00",
+                            "price": "355.00 Dhs",
+                            "priceEuro": "34.01",
+                            "taxEuro": "5.67",
+                            "oldPrice": "999.00 Dhs",
+                            "oldPriceEuro": "95.70",
+                            "discount": "64%"
+                        }
+                    }],
+                    "selectedVariation": "GE232EA18T30JNAFAMZ-52799260"
+                }, {
+                    "sku": "GE232EA01M056NAFAMZ",
+                    "name": "1 pièce Softbox Studio Photographie Professionnel Vidéo Photo 50 x 70 cm + Tripied 2m Approx - Pour Canon Nikon Sony Tous les appareils",
+                    "displayName": "1 pièce Softbox Studio Photographie Professionnel Vidéo Photo 50 x 70 cm + Tripied 2m Approx - Pour Canon Nikon Sony Tous les appareils",
+                    "brand": "Generic",
+                    "sellerId": 10571,
+                    "categories": "Electronics/Cameras/Studio Photographing Equipment",
+                    "prices": {
+                        "rawPrice": "325.00",
+                        "price": "325.00 Dhs",
+                        "priceEuro": "31.13",
+                        "taxEuro": "0.00",
+                        "oldPrice": "900.00 Dhs",
+                        "oldPriceEuro": "86.22",
+                        "discount": "64%"
+                    },
+                    "tags": "CP_MT67",
+                    "rating": {
+                        "average": 3.8,
+                        "totalRatings": 18
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/02/706234/1.jpg?2994",
+                    "url": "/1-piece-softbox-studio-photographie-professionnel-video-photo-50-x-70-cm-tripied-2m-approx-pour-canon-nikon-sony-tous-les-appareils-generic-mpg1129758.html",
+                    "isBuyable": true,
+                    "mpg": {
+                        "lowPriceFormatted": "325.00 Dhs",
+                        "otherOffers": 2
+                    },
+                    "simples": [{
+                        "sku": "GE232EA01M056NAFAMZ-40799197",
+                        "loginUrl": "/customer/account/login/?tkWl=GE232EA01M056NAFAMZ-40799197&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "325.00",
+                            "price": "325.00 Dhs",
+                            "priceEuro": "31.13",
+                            "taxEuro": "0.00",
+                            "oldPrice": "900.00 Dhs",
+                            "oldPriceEuro": "86.22",
+                            "discount": "64%"
+                        }
+                    }],
+                    "selectedVariation": "GE232EA01M056NAFAMZ-40799197"
+                }, {
+                    "sku": "GE232EA0QAQULNAFAMZ",
+                    "name": "Ring Light Video Light Annular Lamp with Tripod for 26CM",
+                    "displayName": "Ring Light Video Light Annular Lamp with Tripod for 26CM",
+                    "brand": "Generic",
+                    "sellerId": 10571,
+                    "categories": "Electronics/Accessories & Supplies/Camera & Photo Accessories/Professional Video Accessories/Tripods",
+                    "prices": {
+                        "rawPrice": "139.00",
+                        "price": "139.00 Dhs",
+                        "priceEuro": "13.32",
+                        "taxEuro": "2.22",
+                        "oldPrice": "500.00 Dhs",
+                        "oldPriceEuro": "47.90",
+                        "discount": "72%"
+                    },
+                    "rating": {
+                        "average": 4.5,
+                        "totalRatings": 2
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/44/171373/1.jpg?9388",
+                    "url": "/ring-light-video-light-annular-lamp-with-tripod-for-26cm-generic-mpg900157.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "GE232EA0QAQULNAFAMZ-33111758",
+                        "loginUrl": "/customer/account/login/?tkWl=GE232EA0QAQULNAFAMZ-33111758&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "139.00",
+                            "price": "139.00 Dhs",
+                            "priceEuro": "13.32",
+                            "taxEuro": "2.22",
+                            "oldPrice": "500.00 Dhs",
+                            "oldPriceEuro": "47.90",
+                            "discount": "72%"
+                        }
+                    }],
+                    "selectedVariation": "GE232EA0QAQULNAFAMZ-33111758"
+                }, {
+                    "sku": "VR446CM00BHVKNAFAMZ",
+                    "name": "Led Lamp ampoule Caméra WiFi HD panoramique 360°VR CAM",
+                    "displayName": "VR CAM Led Lamp ampoule Caméra WiFi HD panoramique 360°VR CAM",
+                    "brand": "VR CAM",
+                    "sellerId": 12634,
+                    "categories": "Electronics/Camera & Photo/Video Surveillance/Surveillance Cameras",
+                    "prices": {
+                        "rawPrice": "309.00",
+                        "price": "309.00 Dhs",
+                        "priceEuro": "29.60",
+                        "taxEuro": "0.00",
+                        "oldPrice": "500.00 Dhs",
+                        "oldPriceEuro": "47.90",
+                        "discount": "38%"
+                    },
+                    "rating": {
+                        "average": 0,
+                        "totalRatings": 0
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/00/536384/1.jpg?5671",
+                    "url": "/led-lamp-ampoule-camera-wifi-hd-panoramique-360vr-cam-vr-cam-mpg1143660.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "VR446CM00BHVKNAFAMZ-46950014",
+                        "loginUrl": "/customer/account/login/?tkWl=VR446CM00BHVKNAFAMZ-46950014&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "309.00",
+                            "price": "309.00 Dhs",
+                            "priceEuro": "29.60",
+                            "taxEuro": "0.00",
+                            "oldPrice": "500.00 Dhs",
+                            "oldPriceEuro": "47.90",
+                            "discount": "38%"
+                        }
+                    }],
+                    "selectedVariation": "VR446CM00BHVKNAFAMZ-46950014"
+                }, {
+                    "sku": "GE232HA1IX8HMNAFAMZ",
+                    "name": "Plaques de cuisson électriques portable à un brûleur - Réchaud de camping",
+                    "displayName": "Plaques de cuisson électriques portable à un brûleur - Réchaud de camping",
+                    "brand": "Generic",
+                    "sellerId": 60600,
+                    "categories": "Electronics/Home Appliances/Kitchen Appliances/Electric Griddles/Electric Tabletop Burmers",
+                    "prices": {
+                        "rawPrice": "125.00",
+                        "price": "125.00 Dhs",
+                        "priceEuro": "11.97",
+                        "taxEuro": "0.00",
+                        "oldPrice": "149.00 Dhs",
+                        "oldPriceEuro": "14.27",
+                        "discount": "16%"
+                    },
+                    "tags": "CP_MT128|CP_MT99",
+                    "rating": {
+                        "average": 3.9,
+                        "totalRatings": 16
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/249914/1.jpg?0577",
+                    "url": "/plaques-de-cuisson-electriques-portable-a-un-bruleur-rechaud-de-camping-generic-mpg1168571.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "GE232HA1IX8HMNAFAMZ-38979571",
+                        "loginUrl": "/customer/account/login/?tkWl=GE232HA1IX8HMNAFAMZ-38979571&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "125.00",
+                            "price": "125.00 Dhs",
+                            "priceEuro": "11.97",
+                            "taxEuro": "0.00",
+                            "oldPrice": "149.00 Dhs",
+                            "oldPriceEuro": "14.27",
+                            "discount": "16%"
+                        }
+                    }],
+                    "selectedVariation": "GE232HA1IX8HMNAFAMZ-38979571"
+                }, {
+                    "sku": "GE232EA1EXVKTNAFAMZ",
+                    "name": "Microphone Micro-Cravate Pour iPhone Mic PROFESSIONNEL,Cable 1.5 m, Voix Hi-Fi , Enregistrement audio et vidéo",
+                    "displayName": "Microphone Micro-Cravate Pour iPhone Mic PROFESSIONNEL,Cable 1.5 m, Voix Hi-Fi , Enregistrement audio et vidéo",
+                    "brand": "Generic",
+                    "sellerId": 10571,
+                    "categories": "Electronics/Accessories & Supplies/Microphones/Microphones",
+                    "prices": {
+                        "rawPrice": "79.00",
+                        "price": "79.00 Dhs",
+                        "priceEuro": "7.57",
+                        "taxEuro": "1.26",
+                        "oldPrice": "250.00 Dhs",
+                        "oldPriceEuro": "23.95",
+                        "discount": "68%"
+                    },
+                    "rating": {
+                        "average": 4.3,
+                        "totalRatings": 6
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/85/561373/1.jpg?6106",
+                    "url": "/microphone-micro-cravate-pour-iphone-mic-professionnelcable-1.5-m-voix-hi-fi-enregistrement-audio-et-video-generic-mpg915615.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "GE232EA1EXVKTNAFAMZ-33110879",
+                        "loginUrl": "/customer/account/login/?tkWl=GE232EA1EXVKTNAFAMZ-33110879&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "79.00",
+                            "price": "79.00 Dhs",
+                            "priceEuro": "7.57",
+                            "taxEuro": "1.26",
+                            "oldPrice": "250.00 Dhs",
+                            "oldPriceEuro": "23.95",
+                            "discount": "68%"
+                        }
+                    }],
+                    "selectedVariation": "GE232EA1EXVKTNAFAMZ-33110879"
+                }, {
+                    "sku": "GE232EA118E50NAFAMZ",
+                    "name": "Selfie Ring Light à LED pour tous les téléphones  Batterie d'alimentation",
+                    "displayName": "Selfie Ring Light à LED pour tous les téléphones  Batterie d'alimentation",
+                    "brand": "Generic",
+                    "sellerId": 103369,
+                    "categories": "Electronics/Accessories & Supplies/Camera & Photo Accessories/Flashes",
+                    "prices": {
+                        "rawPrice": "28.98",
+                        "price": "28.98 Dhs",
+                        "priceEuro": "2.78",
+                        "taxEuro": "0.00"
+                    },
+                    "rating": {
+                        "average": 4.3,
+                        "totalRatings": 22
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/62/537364/1.jpg?3787",
+                    "url": "/selfie-ring-light-a-led-pour-tous-les-telephones-batterie-dalimentation-generic-mpg880650.html",
+                    "isBuyable": true,
+                    "mpg": {
+                        "lowPriceFormatted": "28.98 Dhs",
+                        "otherOffers": 11
+                    },
+                    "simples": [{
+                        "sku": "GE232EA118E50NAFAMZ-44426921",
+                        "loginUrl": "/customer/account/login/?tkWl=GE232EA118E50NAFAMZ-44426921&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "28.98",
+                            "price": "28.98 Dhs",
+                            "priceEuro": "2.78",
+                            "taxEuro": "0.00"
+                        }
+                    }],
+                    "selectedVariation": "GE232EA118E50NAFAMZ-44426921"
+                }, {
+                    "sku": "SA024EA021JV7NAFAMZ",
+                    "name": "UE55AU7172U - 55\" - 4K - UHD - Smart TV",
+                    "displayName": "Samsung UE55AU7172U - 55\" - 4K - UHD - Smart TV",
+                    "brand": "Samsung",
+                    "sellerId": 36242,
+                    "isShopExpress": true,
+                    "categories": "Electronics/Television & Video/Televisions/Smart TVs",
+                    "prices": {
+                        "rawPrice": "6359.00",
+                        "price": "6,359.00 Dhs",
+                        "priceEuro": "609.17",
+                        "taxEuro": "101.53"
+                    },
+                    "tags": "JA22_10|JA22_101|JA22_20|JA22_40|UNDB_1|UNDB_13",
+                    "rating": {
+                        "average": 0,
+                        "totalRatings": 0
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/03/431635/1.jpg?6423",
+                    "url": "/samsung-ue55au7172u-55-4k-uhd-smart-tv-53613430.html",
+                    "isBuyable": true,
+                    "shopExpress": {
+                        "title": "Livraison rapide",
+                        "text": "Éligible à la livraison gratuite"
+                    },
+                    "simples": [{
+                        "sku": "SA024EA021JV7NAFAMZ-53528803",
+                        "loginUrl": "/customer/account/login/?tkWl=SA024EA021JV7NAFAMZ-53528803&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "6359.00",
+                            "price": "6,359.00 Dhs",
+                            "priceEuro": "609.17",
+                            "taxEuro": "101.53"
+                        }
+                    }],
+                    "selectedVariation": "SA024EA021JV7NAFAMZ-53528803"
+                }, {
+                    "sku": "PU424EA080KU6NAFAMZ",
+                    "name": "mini studio Photographie 20 cm Pliable avec  LED + 6 Couleurs de Fond",
+                    "displayName": "Puluz mini studio Photographie 20 cm Pliable avec  LED + 6 Couleurs de Fond",
+                    "brand": "Puluz",
+                    "sellerId": 34055,
+                    "categories": "Electronics/Cameras/Studio Photographing Equipment/Easy Studio/Photography Studio Frame & Support",
+                    "prices": {
+                        "rawPrice": "138.99",
+                        "price": "138.99 Dhs",
+                        "priceEuro": "13.31",
+                        "taxEuro": "2.22",
+                        "oldPrice": "230.00 Dhs",
+                        "oldPriceEuro": "22.03",
+                        "discount": "40%"
+                    },
+                    "tags": "CP_MT33|CP_MT37|JA22_23",
+                    "rating": {
+                        "average": 4,
+                        "totalRatings": 23
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/13/463934/1.jpg?9569",
+                    "url": "/mini-studio-photographie-20-cm-pliable-avec-led-6-couleurs-de-fond-puluz-mpg1261755.html",
+                    "isBuyable": true,
+                    "mpg": {
+                        "lowPriceFormatted": "138.99 Dhs",
+                        "otherOffers": 4
+                    },
+                    "simples": [{
+                        "sku": "PU424EA080KU6NAFAMZ-41542682",
+                        "loginUrl": "/customer/account/login/?tkWl=PU424EA080KU6NAFAMZ-41542682&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "138.99",
+                            "price": "138.99 Dhs",
+                            "priceEuro": "13.31",
+                            "taxEuro": "2.22",
+                            "oldPrice": "230.00 Dhs",
+                            "oldPriceEuro": "22.03",
+                            "discount": "40%"
+                        }
+                    }],
+                    "selectedVariation": "PU424EA080KU6NAFAMZ-41542682"
+                }, {
+                    "sku": "VI281EA1KSFSCNAFAMZ",
+                    "name": "TV 50\" Smart Android Original 9 - 4K UHD -Télécommande Vocale- Bluetooth - Support Mural",
+                    "displayName": "Visio TV 50\" Smart Android Original 9 - 4K UHD -Télécommande Vocale- Bluetooth - Support Mural",
+                    "brand": "Visio",
+                    "sellerId": 29488,
+                    "categories": "Electronics/Television & Video/Televisions/LED & LCD TVs",
+                    "prices": {
+                        "rawPrice": "4149.00",
+                        "price": "4,149.00 Dhs",
+                        "priceEuro": "397.46",
+                        "taxEuro": "66.24",
+                        "oldPrice": "5,000.00 Dhs",
+                        "oldPriceEuro": "478.98",
+                        "discount": "17%"
+                    },
+                    "tags": "JA22_10|JA22_101|JA22_20|JA22_40|UNDA_4|UNDA_42|UNDB_1|UNDB_13",
+                    "rating": {
+                        "average": 5,
+                        "totalRatings": 2
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/385324/1.jpg?0193",
+                    "url": "/visio-tv-50-smart-android-original-9-4k-uhd-telecommande-vocale-bluetooth-support-mural-42358359.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "VI281EA1KSFSCNAFAMZ-39457339",
+                        "loginUrl": "/customer/account/login/?tkWl=VI281EA1KSFSCNAFAMZ-39457339&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "4149.00",
+                            "price": "4,149.00 Dhs",
+                            "priceEuro": "397.46",
+                            "taxEuro": "66.24",
+                            "oldPrice": "5,000.00 Dhs",
+                            "oldPriceEuro": "478.98",
+                            "discount": "17%"
+                        }
+                    }],
+                    "selectedVariation": "VI281EA1KSFSCNAFAMZ-39457339"
+                }, {
+                    "sku": "NO965EL03PH5XNAFAMZ",
+                    "name": "Mini Camera A9 WIFI HD 1080P Vision Nocturne & Detection Mouvement (Video & Son)",
+                    "displayName": "Mini Camera A9 WIFI HD 1080P Vision Nocturne & Detection Mouvement (Video & Son)",
+                    "brand": "Generic",
+                    "sellerId": 89362,
+                    "categories": "Electronics/Camera & Photo/Video Surveillance/Surveillance Cameras",
+                    "prices": {
+                        "rawPrice": "195.00",
+                        "price": "195.00 Dhs",
+                        "priceEuro": "18.68",
+                        "taxEuro": "0.00",
+                        "oldPrice": "350.00 Dhs",
+                        "oldPriceEuro": "33.53",
+                        "discount": "44%"
+                    },
+                    "rating": {
+                        "average": 2,
+                        "totalRatings": 3
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/227493/1.jpg?5646",
+                    "url": "/mini-camera-a9-wifi-hd-1080p-vision-nocturne-detection-mouvement-video-son-other-mpg945552.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "NO965EL03PH5XNAFAMZ-35798324",
+                        "loginUrl": "/customer/account/login/?tkWl=NO965EL03PH5XNAFAMZ-35798324&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "195.00",
+                            "price": "195.00 Dhs",
+                            "priceEuro": "18.68",
+                            "taxEuro": "0.00",
+                            "oldPrice": "350.00 Dhs",
+                            "oldPriceEuro": "33.53",
+                            "discount": "44%"
+                        }
+                    }],
+                    "selectedVariation": "NO965EL03PH5XNAFAMZ-35798324"
+                }, {
+                    "sku": "TA867HL0JFC0GNAFAMZ",
+                    "name": "Aspirateur sans sac Pulsar Animal Care 800 W 2L, Brosse pour les poils d'animaux-2ans de garantie",
+                    "displayName": "Taurus Aspirateur sans sac Pulsar Animal Care 800 W 2L, Brosse pour les poils d'animaux-2ans de garantie",
+                    "brand": "Taurus",
+                    "sellerId": 715,
+                    "isShopExpress": true,
+                    "categories": "Electronics/Home Appliances/Household Appliances/Vacuums & Cleaners",
+                    "prices": {
+                        "rawPrice": "1299.00",
+                        "price": "1,299.00 Dhs",
+                        "priceEuro": "124.44",
+                        "taxEuro": "20.74",
+                        "oldPrice": "1,499.00 Dhs",
+                        "oldPriceEuro": "143.60",
+                        "discount": "13%"
+                    },
+                    "tags": "1212|BF|CP_MT128|CP_MT9|CP_MT99|CP_UN153|Camp_15|Camp_93|JA21_UN9|JMALL|MLP4|Merch_47|Merch_50|Merch_51|Merch_67|Merch_83|Merch_94",
+                    "rating": {
+                        "average": 4.3,
+                        "totalRatings": 28
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/32/628112/1.jpg?6005",
+                    "url": "/taurus-aspirateur-sans-sac-pulsar-animal-care-800-w-2l-brosse-pour-les-poils-danimaux-2ans-de-garantie-21182623.html",
+                    "badges": {
+                        "main": {
+                            "name": "Boutique Officielle",
+                            "identifier": "JMALL",
+                            "url": "/all-products/?tag=JMALL"
+                        }
+                    },
+                    "isBuyable": true,
+                    "shopExpress": {
+                        "title": "Livraison rapide",
+                        "text": "Éligible à la livraison gratuite"
+                    },
+                    "simples": [{
+                        "sku": "TA867HL0JFC0GNAFAMZ-5691431",
+                        "loginUrl": "/customer/account/login/?tkWl=TA867HL0JFC0GNAFAMZ-5691431&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "1299.00",
+                            "price": "1,299.00 Dhs",
+                            "priceEuro": "124.44",
+                            "taxEuro": "20.74",
+                            "oldPrice": "1,499.00 Dhs",
+                            "oldPriceEuro": "143.60",
+                            "discount": "13%"
+                        }
+                    }],
+                    "selectedVariation": "TA867HL0JFC0GNAFAMZ-5691431"
+                }, {
+                    "sku": "GE232HA1M7OVDNAFAMZ",
+                    "name": "télécommande universelle climatiseurs 1000 codes",
+                    "displayName": "télécommande universelle climatiseurs 1000 codes",
+                    "brand": "Generic",
+                    "sellerId": 57565,
+                    "categories": "Electronics/Accessories & Supplies/Audio & Video Accessories/Remote Controls",
+                    "prices": {
+                        "rawPrice": "97.00",
+                        "price": "97.00 Dhs",
+                        "priceEuro": "9.29",
+                        "taxEuro": "1.55",
+                        "oldPrice": "200.00 Dhs",
+                        "oldPriceEuro": "19.16",
+                        "discount": "52%"
+                    },
+                    "tags": "COL_78",
+                    "rating": {
+                        "average": 4.2,
+                        "totalRatings": 10
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/97/776553/1.jpg?8244",
+                    "url": "/telecommande-universelle-climatiseurs-1000-codes-generic-mpg962401.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "GE232HA1M7OVDNAFAMZ-29736550",
+                        "loginUrl": "/customer/account/login/?tkWl=GE232HA1M7OVDNAFAMZ-29736550&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "97.00",
+                            "price": "97.00 Dhs",
+                            "priceEuro": "9.29",
+                            "taxEuro": "1.55",
+                            "oldPrice": "200.00 Dhs",
+                            "oldPriceEuro": "19.16",
+                            "discount": "52%"
+                        }
+                    }],
+                    "selectedVariation": "GE232HA1M7OVDNAFAMZ-29736550"
+                }, {
+                    "sku": "TA867HL1L76P2NAFAMZ",
+                    "name": "Cafetière TRENTO, Machines à Café Expresso 20 BARRE -2ans de garantie",
+                    "displayName": "Taurus Cafetière TRENTO, Machines à Café Expresso 20 BARRE -2ans de garantie",
+                    "brand": "Taurus",
+                    "sellerId": 715,
+                    "isShopExpress": true,
+                    "categories": "Electronics/Home Appliances/Kitchen Appliances/Coffee Makers & Electric Mills/Coffee & Espresso Makers",
+                    "prices": {
+                        "rawPrice": "1022.00",
+                        "price": "1,022.00 Dhs",
+                        "priceEuro": "97.90",
+                        "taxEuro": "16.32",
+                        "oldPrice": "1,399.00 Dhs",
+                        "oldPriceEuro": "134.02",
+                        "discount": "27%"
+                    },
+                    "tags": "1212|BF|CP_1|CP_3|CP_MT128|CP_MT38|CP_MT52|CP_MT9|CP_MT99|CP_UN109|CP_UN75|GAM0|JA21_UN38|JA21_UN9|JA22_3|JA22_33|JMALL|Merch_47|Merch_50|Merch_51|Merch_67|Merch_83",
+                    "rating": {
+                        "average": 4.5,
+                        "totalRatings": 88
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/96/073382/1.jpg?1654",
+                    "url": "/taurus-cafetiere-trento-machines-a-cafe-expresso-20-barre-2ans-de-garantie-28337069.html",
+                    "badges": {
+                        "main": {
+                            "name": "Boutique Officielle",
+                            "identifier": "JMALL",
+                            "url": "/all-products/?tag=JMALL"
+                        }
+                    },
+                    "isBuyable": true,
+                    "shopExpress": {
+                        "title": "Livraison rapide",
+                        "text": "Éligible à la livraison gratuite"
+                    },
+                    "simples": [{
+                        "sku": "TA867HL1L76P2NAFAMZ-17256268",
+                        "loginUrl": "/customer/account/login/?tkWl=TA867HL1L76P2NAFAMZ-17256268&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "1022.00",
+                            "price": "1,022.00 Dhs",
+                            "priceEuro": "97.90",
+                            "taxEuro": "16.32",
+                            "oldPrice": "1,399.00 Dhs",
+                            "oldPriceEuro": "134.02",
+                            "discount": "27%"
+                        }
+                    }],
+                    "selectedVariation": "TA867HL1L76P2NAFAMZ-17256268"
+                }, {
+                    "sku": "VI651EL0JP6PYNAFAMZ",
+                    "name": "Écouteurs originale HS604 Blanc avec micro",
+                    "displayName": "Vidvie Écouteurs originale HS604 Blanc avec micro",
+                    "brand": "Vidvie",
+                    "sellerId": 102213,
+                    "categories": "Electronics/Headphones/Earbud Headphones",
+                    "prices": {
+                        "rawPrice": "38.36",
+                        "price": "38.36 Dhs",
+                        "priceEuro": "3.67",
+                        "taxEuro": "0.61",
+                        "oldPrice": "149.00 Dhs",
+                        "oldPriceEuro": "14.27",
+                        "discount": "74%"
+                    },
+                    "rating": {
+                        "average": 4,
+                        "totalRatings": 143
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/33/087814/1.jpg?6869",
+                    "url": "/ecouteurs-originale-hs604-blanc-avec-micro-vidvie-mpg960956.html",
+                    "isBuyable": true,
+                    "mpg": {
+                        "lowPriceFormatted": "38.36 Dhs",
+                        "otherOffers": 4
+                    },
+                    "simples": [{
+                        "sku": "VI651EL0JP6PYNAFAMZ-38818324",
+                        "loginUrl": "/customer/account/login/?tkWl=VI651EL0JP6PYNAFAMZ-38818324&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "vidvie",
+                        "prices": {
+                            "rawPrice": "38.36",
+                            "price": "38.36 Dhs",
+                            "priceEuro": "3.67",
+                            "taxEuro": "0.61",
+                            "oldPrice": "149.00 Dhs",
+                            "oldPriceEuro": "14.27",
+                            "discount": "74%"
+                        }
+                    }],
+                    "selectedVariation": "VI651EL0JP6PYNAFAMZ-38818324",
+                    "variationSelection": true
+                }, {
+                    "sku": "PR131HL0O6VT4NAFAMZ",
+                    "name": "360° Bouilloire Electrique INOX-304 Qualité Alimentaire 1.7L",
+                    "displayName": "Prima 360° Bouilloire Electrique INOX-304 Qualité Alimentaire 1.7L",
+                    "brand": "Prima",
+                    "sellerId": 1618,
+                    "categories": "Electronics/Home Appliances/Kitchen Appliances/Electric Kettles & Pots/Electric Kettles",
+                    "prices": {
+                        "rawPrice": "219.00",
+                        "price": "219.00 Dhs",
+                        "priceEuro": "20.98",
+                        "taxEuro": "3.50",
+                        "oldPrice": "450.00 Dhs",
+                        "oldPriceEuro": "43.11",
+                        "discount": "51%"
+                    },
+                    "tags": "CP_UN155|CP_UN230|DOW_138|DOW_21|INV_CLEAR|RKTAP|RMD_02|RMD_22|RMD_28",
+                    "rating": {
+                        "average": 4.9,
+                        "totalRatings": 9
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/631944/1.jpg?7943",
+                    "url": "/prima-360-bouilloire-electrique-inox-304-qualite-alimentaire-1.7l-44913604.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "PR131HL0O6VT4NAFAMZ-42628912",
+                        "loginUrl": "/customer/account/login/?tkWl=PR131HL0O6VT4NAFAMZ-42628912&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "SUZANDECO BEST ONE",
+                        "prices": {
+                            "rawPrice": "219.00",
+                            "price": "219.00 Dhs",
+                            "priceEuro": "20.98",
+                            "taxEuro": "3.50",
+                            "oldPrice": "450.00 Dhs",
+                            "oldPriceEuro": "43.11",
+                            "discount": "51%"
+                        }
+                    }],
+                    "selectedVariation": "PR131HL0O6VT4NAFAMZ-42628912",
+                    "variationSelection": true
+                }, {
+                    "sku": "OW176EA1K3IUBNAFAMZ",
+                    "name": "Projecteur SD150 SMART 2400 Lumens ANDROID 1080p",
+                    "displayName": "Owlenz Projecteur SD150 SMART 2400 Lumens ANDROID 1080p",
+                    "brand": "Owlenz",
+                    "sellerId": 18212,
+                    "isShopExpress": true,
+                    "categories": "Electronics/Camera & Photo/Projectors/Video Projectors",
+                    "prices": {
+                        "rawPrice": "1519.05",
+                        "price": "1,519.05 Dhs",
+                        "priceEuro": "145.52",
+                        "taxEuro": "24.25",
+                        "oldPrice": "2,499.00 Dhs",
+                        "oldPriceEuro": "239.39",
+                        "discount": "39%"
+                    },
+                    "tags": "TW21|TW_05|UND_1",
+                    "rating": {
+                        "average": 4.2,
+                        "totalRatings": 33
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/94/222883/1.jpg?6680",
+                    "url": "/owlenz-projecteur-sd150-smart-2400-lumens-android-1080p-38822249.html",
+                    "isBuyable": true,
+                    "shopExpress": {
+                        "title": "Livraison rapide",
+                        "text": "Éligible à la livraison gratuite"
+                    },
+                    "simples": [{
+                        "sku": "OW176EA1K3IUBNAFAMZ-35060546",
+                        "loginUrl": "/customer/account/login/?tkWl=OW176EA1K3IUBNAFAMZ-35060546&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "150And",
+                        "prices": {
+                            "rawPrice": "1519.05",
+                            "price": "1,519.05 Dhs",
+                            "priceEuro": "145.52",
+                            "taxEuro": "24.25",
+                            "oldPrice": "2,499.00 Dhs",
+                            "oldPriceEuro": "239.39",
+                            "discount": "39%"
+                        }
+                    }],
+                    "selectedVariation": "OW176EA1K3IUBNAFAMZ-35060546",
+                    "variationSelection": true
+                }, {
+                    "sku": "DA824CM0TKH5INAFAMZ",
+                    "name": "Camera de surveillance Étanche 5MP IR BULLET Extérieur HAC-HFW1500TP 4K",
+                    "displayName": "Dahua Camera de surveillance Étanche 5MP IR BULLET Extérieur HAC-HFW1500TP 4K",
+                    "brand": "Dahua",
+                    "sellerId": 38073,
+                    "categories": "Electronics/Camera & Photo/Video Surveillance/Surveillance Cameras",
+                    "prices": {
+                        "rawPrice": "329.00",
+                        "price": "329.00 Dhs",
+                        "priceEuro": "31.52",
+                        "taxEuro": "0.00",
+                        "oldPrice": "399.00 Dhs",
+                        "oldPriceEuro": "38.22",
+                        "discount": "18%"
+                    },
+                    "rating": {
+                        "average": 5,
+                        "totalRatings": 1
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/664214/1.jpg?4469",
+                    "url": "/camera-de-surveillance-etanche-5mp-ir-bullet-exterieur-hac-hfw1500tp-4k-dahua-mpg1323416.html",
+                    "isBuyable": true,
+                    "mpg": {
+                        "lowPriceFormatted": "329.00 Dhs",
+                        "otherOffers": 4
+                    },
+                    "simples": [{
+                        "sku": "DA824CM0TKH5INAFAMZ-38007123",
+                        "loginUrl": "/customer/account/login/?tkWl=DA824CM0TKH5INAFAMZ-38007123&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "329.00",
+                            "price": "329.00 Dhs",
+                            "priceEuro": "31.52",
+                            "taxEuro": "0.00",
+                            "oldPrice": "399.00 Dhs",
+                            "oldPriceEuro": "38.22",
+                            "discount": "18%"
+                        }
+                    }],
+                    "selectedVariation": "DA824CM0TKH5INAFAMZ-38007123"
+                }, {
+                    "sku": "GE232EA0ZI4IONAFAMZ",
+                    "name": "Micro-Cravate AUX Pro, Son Voix Hi-Fi, Enregistrement audio et vidéo",
+                    "displayName": "Micro-Cravate AUX Pro, Son Voix Hi-Fi, Enregistrement audio et vidéo",
+                    "brand": "Generic",
+                    "sellerId": 10571,
+                    "categories": "Electronics/Accessories & Supplies/Microphones/Microphones",
+                    "prices": {
+                        "rawPrice": "38.00",
+                        "price": "38.00 Dhs",
+                        "priceEuro": "3.64",
+                        "taxEuro": "0.00",
+                        "oldPrice": "150.00 Dhs",
+                        "oldPriceEuro": "14.37",
+                        "discount": "75%"
+                    },
+                    "rating": {
+                        "average": 0,
+                        "totalRatings": 0
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/59/632224/1.jpg?7687",
+                    "url": "/micro-cravate-aux-pro-son-voix-hi-fi-enregistrement-audio-et-video-generic-mpg1085870.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "GE232EA0ZI4IONAFAMZ-39286045",
+                        "loginUrl": "/customer/account/login/?tkWl=GE232EA0ZI4IONAFAMZ-39286045&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "38.00",
+                            "price": "38.00 Dhs",
+                            "priceEuro": "3.64",
+                            "taxEuro": "0.00",
+                            "oldPrice": "150.00 Dhs",
+                            "oldPriceEuro": "14.37",
+                            "discount": "75%"
+                        }
+                    }],
+                    "selectedVariation": "GE232EA0ZI4IONAFAMZ-39286045"
+                }, {
+                    "sku": "GE232EA0OD8Q8NAFAMZ",
+                    "name": "Télécommande de remplacement pour Samsung BN59-01300G 4K Ultra HD",
+                    "displayName": "Télécommande de remplacement pour Samsung BN59-01300G 4K Ultra HD",
+                    "brand": "Generic",
+                    "sellerId": 15031,
+                    "categories": "Electronics/Accessories & Supplies/Audio & Video Accessories/Remote Controls",
+                    "prices": {
+                        "rawPrice": "37.00",
+                        "price": "37.00 Dhs",
+                        "priceEuro": "3.54",
+                        "taxEuro": "0.00",
+                        "oldPrice": "199.00 Dhs",
+                        "oldPriceEuro": "19.06",
+                        "discount": "81%"
+                    },
+                    "tags": "JA22_20|JA22_48",
+                    "rating": {
+                        "average": 4.1,
+                        "totalRatings": 10
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/928624/1.jpg?9177",
+                    "url": "/telecommande-de-remplacement-pour-samsung-bn59-01300g-4k-ultra-hd-generic-mpg1240063.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "GE232EA0OD8Q8NAFAMZ-39884954",
+                        "loginUrl": "/customer/account/login/?tkWl=GE232EA0OD8Q8NAFAMZ-39884954&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "pour Samsung",
+                        "prices": {
+                            "rawPrice": "37.00",
+                            "price": "37.00 Dhs",
+                            "priceEuro": "3.54",
+                            "taxEuro": "0.00",
+                            "oldPrice": "199.00 Dhs",
+                            "oldPriceEuro": "19.06",
+                            "discount": "81%"
+                        }
+                    }],
+                    "selectedVariation": "GE232EA0OD8Q8NAFAMZ-39884954",
+                    "variationSelection": true
+                }, {
+                    "sku": "IT879EA1ND638NAFAMZ",
+                    "name": "Smart TV 32\" Android 9 OFFICIEL Bluetooth 5 Récepteur Intégré HDR Voice Remote MODEL 2021 + SUPPORT",
+                    "displayName": "Itel Smart TV 32\" Android 9 OFFICIEL Bluetooth 5 Récepteur Intégré HDR Voice Remote MODEL 2021 + SUPPORT",
+                    "brand": "Itel",
+                    "sellerId": 65115,
+                    "categories": "Electronics/Television & Video/Televisions/Smart TVs",
+                    "prices": {
+                        "rawPrice": "1725.00",
+                        "price": "1,725.00 Dhs",
+                        "priceEuro": "165.25",
+                        "taxEuro": "27.54",
+                        "oldPrice": "2,599.00 Dhs",
+                        "oldPriceEuro": "248.97",
+                        "discount": "34%"
+                    },
+                    "tags": "UNDA_4|UNDA_42",
+                    "rating": {
+                        "average": 4.3,
+                        "totalRatings": 7
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/711764/1.jpg?3276",
+                    "url": "/itel-smart-tv-32-android-9-officiel-bluetooth-5-recepteur-integre-hdr-voice-remote-model-2021-support-46711799.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "IT879EA1ND638NAFAMZ-44875421",
+                        "loginUrl": "/customer/account/login/?tkWl=IT879EA1ND638NAFAMZ-44875421&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "1725.00",
+                            "price": "1,725.00 Dhs",
+                            "priceEuro": "165.25",
+                            "taxEuro": "27.54",
+                            "oldPrice": "2,599.00 Dhs",
+                            "oldPriceEuro": "248.97",
+                            "discount": "34%"
+                        }
+                    }],
+                    "selectedVariation": "IT879EA1ND638NAFAMZ-44875421"
+                }, {
+                    "sku": "SA024EL12ZL58NAFAMZ",
+                    "name": "32\" Smart Tv LED  HD TV avec Récepteur -SERIE 5- TNT & WIFI Intégré",
+                    "displayName": "Samsung 32\" Smart Tv LED  HD TV avec Récepteur -SERIE 5- TNT & WIFI Intégré",
+                    "brand": "Samsung",
+                    "sellerId": 29488,
+                    "categories": "Electronics/Television & Video/Televisions/LED & LCD TVs",
+                    "prices": {
+                        "rawPrice": "2327.00",
+                        "price": "2,327.00 Dhs",
+                        "priceEuro": "222.92",
+                        "taxEuro": "37.15",
+                        "oldPrice": "3,549.00 Dhs",
+                        "oldPriceEuro": "339.98",
+                        "discount": "34%"
+                    },
+                    "tags": "CP_MT128|CP_MT18|CP_MT20|CP_UN92|TW21|TW_05|TW_07|UNDA_4|UNDA_42|UND_27|UND_30",
+                    "rating": {
+                        "average": 4.3,
+                        "totalRatings": 221
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/65/485772/1.jpg?6661",
+                    "url": "/32-smart-tv-led-hd-tv-avec-recepteur-serie-5-tnt-et-wifi-integre-32n5300-samsung-mpg84938.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "SA024EL12ZL58NAFAMZ-15989329",
+                        "loginUrl": "/customer/account/login/?tkWl=SA024EL12ZL58NAFAMZ-15989329&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "1",
+                        "prices": {
+                            "rawPrice": "2327.00",
+                            "price": "2,327.00 Dhs",
+                            "priceEuro": "222.92",
+                            "taxEuro": "37.15",
+                            "oldPrice": "3,549.00 Dhs",
+                            "oldPriceEuro": "339.98",
+                            "discount": "34%"
+                        }
+                    }],
+                    "selectedVariation": "SA024EL12ZL58NAFAMZ-15989329",
+                    "variationSelection": true
+                }, {
+                    "sku": "GE232HA1C61J9NAFAMZ",
+                    "name": "Mixeur Blender Smoothie maker 1000 W Bol en Verre + Moulin épices en verre + 2 pièces de rechanges",
+                    "displayName": "Mixeur Blender Smoothie maker 1000 W Bol en Verre + Moulin épices en verre + 2 pièces de rechanges",
+                    "brand": "Generic",
+                    "sellerId": 22128,
+                    "categories": "Electronics/Home Appliances/Kitchen Appliances/Blenders, Mixers & Food Processors",
+                    "prices": {
+                        "rawPrice": "269.00",
+                        "price": "269.00 Dhs",
+                        "priceEuro": "25.77",
+                        "taxEuro": "4.29",
+                        "oldPrice": "749.00 Dhs",
+                        "oldPriceEuro": "71.75",
+                        "discount": "64%"
+                    },
+                    "tags": "UNDB_2|UNDB_22",
+                    "rating": {
+                        "average": 4,
+                        "totalRatings": 87
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/903493/1.jpg?7069",
+                    "url": "/mixeur-blender-smoothie-maker-1000-w-bol-en-verre-moulin-epices-en-verre-2-pieces-de-rechanges-generic-mpg956556.html",
+                    "isBuyable": true,
+                    "mpg": {
+                        "lowPriceFormatted": "269.00 Dhs",
+                        "otherOffers": 3
+                    },
+                    "simples": [{
+                        "sku": "GE232HA1C61J9NAFAMZ-35739533",
+                        "loginUrl": "/customer/account/login/?tkWl=GE232HA1C61J9NAFAMZ-35739533&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "269.00",
+                            "price": "269.00 Dhs",
+                            "priceEuro": "25.77",
+                            "taxEuro": "4.29",
+                            "oldPrice": "749.00 Dhs",
+                            "oldPriceEuro": "71.75",
+                            "discount": "64%"
+                        }
+                    }],
+                    "selectedVariation": "GE232HA1C61J9NAFAMZ-35739533"
+                }, {
+                    "sku": "UL311EA0VFEWMNAFAMZ",
+                    "name": "VL49 Mini RGB Video Light Multicouleur Réglable 2500K-9000K 800LUX 2000Mah RGB LED Projecteur Rechargeable Type-C",
+                    "displayName": "Ulanzi VL49 Mini RGB Video Light Multicouleur Réglable 2500K-9000K 800LUX 2000Mah RGB LED Projecteur Rechargeable Type-C",
+                    "brand": "Ulanzi",
+                    "sellerId": 2071,
+                    "isShopExpress": true,
+                    "categories": "Electronics/Cameras/Flashes & Strobes",
+                    "prices": {
+                        "rawPrice": "316.00",
+                        "price": "316.00 Dhs",
+                        "priceEuro": "30.27",
+                        "taxEuro": "5.05",
+                        "oldPrice": "589.00 Dhs",
+                        "oldPriceEuro": "56.42",
+                        "discount": "46%"
+                    },
+                    "rating": {
+                        "average": 5,
+                        "totalRatings": 3
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/52/787254/1.jpg?9898",
+                    "url": "/ulanzi-vl49-mini-rgb-video-light-multicouleur-reglable-2500k-9000k-800lux-2000mah-rgb-led-projecteur-rechargeable-type-c-45278725.html",
+                    "isBuyable": true,
+                    "shopExpress": {
+                        "title": "Livraison rapide",
+                        "text": "Éligible à la livraison gratuite"
+                    },
+                    "simples": [{
+                        "sku": "UL311EA0VFEWMNAFAMZ-43147761",
+                        "loginUrl": "/customer/account/login/?tkWl=UL311EA0VFEWMNAFAMZ-43147761&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "316.00",
+                            "price": "316.00 Dhs",
+                            "priceEuro": "30.27",
+                            "taxEuro": "5.05",
+                            "oldPrice": "589.00 Dhs",
+                            "oldPriceEuro": "56.42",
+                            "discount": "46%"
+                        }
+                    }],
+                    "selectedVariation": "UL311EA0VFEWMNAFAMZ-43147761"
+                }, {
+                    "sku": "IT879EA1GZ5D4NAFAMZ",
+                    "name": "Smart TV 32\" Android™ 9 Pie, HD - Bluetooth - Récepteur Intégré - HDR PQ Technology - Voice Remote Control",
+                    "displayName": "Itel Smart TV 32\" Android™ 9 Pie, HD - Bluetooth - Récepteur Intégré - HDR PQ Technology - Voice Remote Control",
+                    "brand": "Itel",
+                    "sellerId": 29488,
+                    "categories": "Electronics/Television & Video/Televisions/Smart TVs",
+                    "prices": {
+                        "rawPrice": "1749.00",
+                        "price": "1,749.00 Dhs",
+                        "priceEuro": "167.55",
+                        "taxEuro": "27.92",
+                        "oldPrice": "2,499.00 Dhs",
+                        "oldPriceEuro": "239.39",
+                        "discount": "30%"
+                    },
+                    "tags": "UNDA_4|UNDA_42",
+                    "rating": {
+                        "average": 4.3,
+                        "totalRatings": 10
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/88/979944/1.jpg?6491",
+                    "url": "/smart-tv-32-androidtm-9-pie-hd-bluetooth-recepteur-integre-hdr-pq-technology-voice-remote-control-itel-mpg1234859.html",
+                    "isBuyable": true,
+                    "mpg": {
+                        "lowPriceFormatted": "1,749.00 Dhs",
+                        "otherOffers": 2
+                    },
+                    "simples": [{
+                        "sku": "IT879EA1GZ5D4NAFAMZ-42733795",
+                        "loginUrl": "/customer/account/login/?tkWl=IT879EA1GZ5D4NAFAMZ-42733795&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "1749.00",
+                            "price": "1,749.00 Dhs",
+                            "priceEuro": "167.55",
+                            "taxEuro": "27.92",
+                            "oldPrice": "2,499.00 Dhs",
+                            "oldPriceEuro": "239.39",
+                            "discount": "30%"
+                        }
+                    }],
+                    "selectedVariation": "IT879EA1GZ5D4NAFAMZ-42733795"
+                }, {
+                    "sku": "GE232EA0SVYPQNAFAMZ",
+                    "name": "Câble DisplayPort vers Display Port 1,8 M Câble DP Mâle Mâle",
+                    "displayName": "Câble DisplayPort vers Display Port 1,8 M Câble DP Mâle Mâle",
+                    "brand": "Generic",
+                    "sellerId": 60518,
+                    "categories": "Electronics/Accessories & Supplies/Audio & Video Accessories/Cables/Audio Power Outlets & Cables",
+                    "prices": {
+                        "rawPrice": "49.00",
+                        "price": "49.00 Dhs",
+                        "priceEuro": "4.69",
+                        "taxEuro": "0.78",
+                        "oldPrice": "122.00 Dhs",
+                        "oldPriceEuro": "11.69",
+                        "discount": "60%"
+                    },
+                    "rating": {
+                        "average": 0,
+                        "totalRatings": 0
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/48/520574/1.jpg?3613",
+                    "url": "/generic-cable-displayport-vers-display-port-18-m-cable-dp-male-male-47502584.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "GE232EA0SVYPQNAFAMZ-45894091",
+                        "loginUrl": "/customer/account/login/?tkWl=GE232EA0SVYPQNAFAMZ-45894091&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "ONE SIZE FITS ALL",
+                        "prices": {
+                            "rawPrice": "49.00",
+                            "price": "49.00 Dhs",
+                            "priceEuro": "4.69",
+                            "taxEuro": "0.78",
+                            "oldPrice": "122.00 Dhs",
+                            "oldPriceEuro": "11.69",
+                            "discount": "60%"
+                        }
+                    }],
+                    "selectedVariation": "GE232EA0SVYPQNAFAMZ-45894091",
+                    "variationSelection": true
+                }, {
+                    "sku": "NO965EL0JULSPNAFAMZ",
+                    "name": "Trépied Flexible pour Téléphone et caméra d'action GoPro avec support Mobile Couleur  -  Blue",
+                    "displayName": "Trépied Flexible pour Téléphone et caméra d'action GoPro avec support Mobile Couleur  -  Blue",
+                    "brand": "Other",
+                    "sellerId": 50101,
+                    "categories": "Electronics/Accessories & Supplies/Cables/Camera & Photo",
+                    "prices": {
+                        "rawPrice": "28.49",
+                        "price": "28.49 Dhs",
+                        "priceEuro": "2.73",
+                        "taxEuro": "0.45",
+                        "oldPrice": "199.00 Dhs",
+                        "oldPriceEuro": "19.06",
+                        "discount": "86%"
+                    },
+                    "tags": "JLY6",
+                    "rating": {
+                        "average": 3.4,
+                        "totalRatings": 10
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/33/340633/1.jpg?1728",
+                    "url": "/trepied-flexible-pour-telephone-et-camera-daction-gopro-avec-support-mobile-couleur-blue-autre-mpg84233.html",
+                    "isBuyable": true,
+                    "mpg": {
+                        "lowPriceFormatted": "28.49 Dhs",
+                        "otherOffers": 3
+                    },
+                    "simples": [{
+                        "sku": "NO965EL0JULSPNAFAMZ-25342945",
+                        "loginUrl": "/customer/account/login/?tkWl=NO965EL0JULSPNAFAMZ-25342945&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "28.49",
+                            "price": "28.49 Dhs",
+                            "priceEuro": "2.73",
+                            "taxEuro": "0.45",
+                            "oldPrice": "199.00 Dhs",
+                            "oldPriceEuro": "19.06",
+                            "discount": "86%"
+                        }
+                    }],
+                    "selectedVariation": "NO965EL0JULSPNAFAMZ-25342945"
+                }, {
+                    "sku": "GE232EL09ZH8BNAFAMZ",
+                    "name": "Jumelles d'extérieur 30x60 mini-zoom télescopes de vision de jour et de nuit",
+                    "displayName": "Jumelles d'extérieur 30x60 mini-zoom télescopes de vision de jour et de nuit",
+                    "brand": "Generic",
+                    "sellerId": 127976,
+                    "categories": "Electronics/Camera & Photo/Binoculars & Scopes/Binoculars",
+                    "prices": {
+                        "rawPrice": "88.99",
+                        "price": "88.99 Dhs",
+                        "priceEuro": "8.52",
+                        "taxEuro": "1.42",
+                        "oldPrice": "139.00 Dhs",
+                        "oldPriceEuro": "13.32",
+                        "discount": "36%"
+                    },
+                    "rating": {
+                        "average": 3.8,
+                        "totalRatings": 30
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/16/771835/1.jpg?5449",
+                    "url": "/jumelles-dexterieur-30x60-mini-zoom-telescopes-de-vision-de-jour-et-de-nuit-generic-mpg899762.html",
+                    "isBuyable": true,
+                    "mpg": {
+                        "lowPriceFormatted": "88.99 Dhs",
+                        "otherOffers": 5
+                    },
+                    "simples": [{
+                        "sku": "GE232EL09ZH8BNAFAMZ-53852616",
+                        "loginUrl": "/customer/account/login/?tkWl=GE232EL09ZH8BNAFAMZ-53852616&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "88.99",
+                            "price": "88.99 Dhs",
+                            "priceEuro": "8.52",
+                            "taxEuro": "1.42",
+                            "oldPrice": "139.00 Dhs",
+                            "oldPriceEuro": "13.32",
+                            "discount": "36%"
+                        }
+                    }],
+                    "selectedVariation": "GE232EL09ZH8BNAFAMZ-53852616"
+                }, {
+                    "sku": "XI737CM01FXPBNAFAMZ",
+                    "name": "Mi Home Security caméra IP Rotatif intelligente 1080P WiFi 360 Angle avec Vision nocturne",
+                    "displayName": "XIAOMI Mi Home Security caméra IP Rotatif intelligente 1080P WiFi 360 Angle avec Vision nocturne",
+                    "brand": "XIAOMI",
+                    "sellerId": 2071,
+                    "isShopExpress": true,
+                    "categories": "Electronics/Camera & Photo/Video Surveillance/Surveillance Cameras",
+                    "prices": {
+                        "rawPrice": "410.00",
+                        "price": "410.00 Dhs",
+                        "priceEuro": "39.28",
+                        "taxEuro": "0.00",
+                        "oldPrice": "599.00 Dhs",
+                        "oldPriceEuro": "57.38",
+                        "discount": "32%"
+                    },
+                    "rating": {
+                        "average": 5,
+                        "totalRatings": 1
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/02/423135/1.jpg?3190",
+                    "url": "/xiaomi-mi-home-security-camera-ip-rotatif-intelligente-1080p-wifi-360-angle-avec-vision-nocturne-53132420.html",
+                    "isBuyable": true,
+                    "shopExpress": {
+                        "title": "Livraison rapide",
+                        "text": "Éligible à la livraison gratuite"
+                    },
+                    "simples": [{
+                        "sku": "XI737CM01FXPBNAFAMZ-52946731",
+                        "loginUrl": "/customer/account/login/?tkWl=XI737CM01FXPBNAFAMZ-52946731&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "Global Version",
+                        "prices": {
+                            "rawPrice": "410.00",
+                            "price": "410.00 Dhs",
+                            "priceEuro": "39.28",
+                            "taxEuro": "0.00",
+                            "oldPrice": "599.00 Dhs",
+                            "oldPriceEuro": "57.38",
+                            "discount": "32%"
+                        }
+                    }],
+                    "selectedVariation": "XI737CM01FXPBNAFAMZ-52946731",
+                    "variationSelection": true
+                }, {
+                    "sku": "GE232HA09OCOLNAFAMZ",
+                    "name": "Ventilateur de bureau d'étudiant rechargeable USB silencieux pliable",
+                    "displayName": "Ventilateur de bureau d'étudiant rechargeable USB silencieux pliable",
+                    "brand": "Generic",
+                    "sellerId": 103988,
+                    "categories": "Electronics/Home Appliances/Air Quality & Seasonal Appliances/Fans",
+                    "prices": {
+                        "rawPrice": "299.00",
+                        "price": "299.00 Dhs",
+                        "priceEuro": "28.64",
+                        "taxEuro": "0.00",
+                        "oldPrice": "399.00 Dhs",
+                        "oldPriceEuro": "38.22",
+                        "discount": "25%"
+                    },
+                    "tags": "UNDB_2|UNDB_21",
+                    "rating": {
+                        "average": 5,
+                        "totalRatings": 1
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/16/252725/1.jpg?6965",
+                    "url": "/generic-ventilateur-de-bureau-detudiant-rechargeable-usb-silencieux-pliable-52725261.html",
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "GE232HA09OCOLNAFAMZ-52394149",
+                        "loginUrl": "/customer/account/login/?tkWl=GE232HA09OCOLNAFAMZ-52394149&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "299.00",
+                            "price": "299.00 Dhs",
+                            "priceEuro": "28.64",
+                            "taxEuro": "0.00",
+                            "oldPrice": "399.00 Dhs",
+                            "oldPriceEuro": "38.22",
+                            "discount": "25%"
+                        }
+                    }],
+                    "selectedVariation": "GE232HA09OCOLNAFAMZ-52394149"
+                }, {
+                    "sku": "KR249EA1GCQ4ANAFAMZ",
+                    "name": "TV LED  TK-39-DT-01 39 pouces récepteur intégré",
+                    "displayName": "KRÖHLER TV LED  TK-39-DT-01 39 pouces récepteur intégré",
+                    "brand": "KRÖHLER",
+                    "sellerId": 911,
+                    "categories": "Electronics/Television & Video/Televisions/LED & LCD TVs",
+                    "prices": {
+                        "rawPrice": "2099.00",
+                        "price": "2,099.00 Dhs",
+                        "priceEuro": "201.08",
+                        "taxEuro": "33.51",
+                        "oldPrice": "2,199.00 Dhs",
+                        "oldPriceEuro": "210.66",
+                        "discount": "5%"
+                    },
+                    "tags": "JMALL|UNDA_4|UNDA_42|UND_27|UND_30",
+                    "rating": {
+                        "average": 3.5,
+                        "totalRatings": 2
+                    },
+                    "image": "https://ma.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/933754/1.jpg?0955",
+                    "url": "/krohler-tv-led-tk-39-dt-01-39-pouces-recepteur-integre-45733978.html",
+                    "badges": {
+                        "main": {
+                            "name": "Boutique Officielle",
+                            "identifier": "JMALL",
+                            "url": "/all-products/?tag=JMALL"
+                        }
+                    },
+                    "isBuyable": true,
+                    "simples": [{
+                        "sku": "KR249EA1GCQ4ANAFAMZ-43677691",
+                        "loginUrl": "/customer/account/login/?tkWl=KR249EA1GCQ4ANAFAMZ-43677691&return=%2Felectronique%2F%3Fpage%3D3",
+                        "isBuyable": true,
+                        "name": "",
+                        "prices": {
+                            "rawPrice": "2099.00",
+                            "price": "2,099.00 Dhs",
+                            "priceEuro": "201.08",
+                            "taxEuro": "33.51",
+                            "oldPrice": "2,199.00 Dhs",
+                            "oldPriceEuro": "210.66",
+                            "discount": "5%"
+                        }
+                    }],
+                    "selectedVariation": "KR249EA1GCQ4ANAFAMZ-43677691"
+                }],
+                "timeLabels": {
+                    "w": "s",
+                    "d": "j",
+                    "h": "h",
+                    "m": "m",
+                    "s": "s"
+                },
+                "sponsoredUrl": "/fragment/sp/products/catalog-page-types/category/?fq=%7B%22category%22%3A1492%7D&page=3&numberItems=8&viewType=list",
+                "googleAds": {
+                    "targeting": {
+                        "cat_1": ["Electronics"],
+                        "category": ["Electronics"],
+                        "searchTerm": ["none"]
+                    },
+                    "catalog_top": {
+                        "adUnitPath": "21797821657/desktop_catalog_top",
+                        "size": [[728, 90], [970, 90], [970, 250]]
+                    },
+                    "catalog_bottom": {
+                        "adUnitPath": "21797821657/desktop_catalog_bottom",
+                        "size": [[728, 90], [970, 90], [970, 250]]
+                    }
+                }
+            }
